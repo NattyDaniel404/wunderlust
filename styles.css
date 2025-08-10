@@ -2,6 +2,14 @@
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
+/* Plan and About icons */
+#plan img {
+  filter: invert(47%) sepia(92%) saturate(2200%) hue-rotate(161deg) brightness(98%) contrast(101%);
+}
+#about img {
+  filter: invert(23%) sepia(90%) saturate(4290%) hue-rotate(285deg) brightness(85%) contrast(98%);
+}
+
 /* Document */
 html {
   line-height: 1.15;
