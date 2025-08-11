@@ -268,7 +268,7 @@ header img {
   width: auto;
 }
 
-/* Navigation Toggle (hide checkbox; style label as button) */
+/* Navigation Toggle  */
 #menu-toggle input[type="checkbox"] {
   display: none !important;
 }
@@ -425,7 +425,7 @@ nav ul li.active a {
   #plan > div { grid-template-columns: repeat(4, 1fr); }
 }
 
-/* TESTIMONIALS (No Boxes)
+/* TESTIMONIALS 
    ========================================================================== */
 #testimonials {
   padding: 40px 20px;
@@ -573,7 +573,7 @@ form {
   }
 }
 
-/* Contact overrides: no outer box, single-column, full-width submit, larger radios */
+
 #contact form {
   background: transparent;
   border-radius: 0;
